@@ -33,10 +33,16 @@ Using the easyocr and pytesseract libs to extract text from image
     > brew install tesseract
   
 # How it operates
+**Step 1:** Change the name of your image to 'ocr' and make sure that it's either png or jpg.
 
-On running the code, you will get a file named **'ocr.jpg'**. If you run the code again, it will *overwrite* the file.
--
-  
-  Project By : Arshiya Sharma
+**Step 2:** Open the project in your compiler.
+
+**Step 3:** Add the image in the project (no folder, just drag and drop).
+
+**Step 3:** On running either *jpgToText.py* or *pngToText.py* depending on the file, you will get a file named **'ocr.txt'**. If you run the code again, it will *overwrite* the file.
+
+##
+
+Project By : Arshiya Sharma
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
