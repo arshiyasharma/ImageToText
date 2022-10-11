@@ -21,7 +21,7 @@ Virtual Environment:
          
     > ocr_path = r"--the path to the tesseract.exe present in tesseractOCR folder in program files in User--"
           
-     > pyt.pytesseract.tesseract_cmd = ocr_path
+    > pyt.pytesseract.tesseract_cmd = ocr_path
   
   
 ### If you're using macOs and it gives you any errors regarding tesseract, please use Homebrew to download the library:
